@@ -1,3 +1,4 @@
 Nome: Ivan Barros
 Idade: 36 anos
 Profissão: Promovido para QA
+Profissão: Promovido para QA Pleno
